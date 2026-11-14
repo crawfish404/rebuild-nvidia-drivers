@@ -1,0 +1,9 @@
+at login screen, press Crtl+Alt+F3
+
+sudo dnf upgrade --refresh
+
+sudo reboot
+
+sudo akmods --force --rebuild
+
+sudo reboot
